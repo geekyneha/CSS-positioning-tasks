@@ -1,0 +1,35 @@
+.card{
+    width: 30vw;
+    margin:30vh auto;
+    position: relative;
+}
+.heading{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+.about{
+    font-size:1.5rem;
+
+}
+.fields{
+    border: none;
+    width: 100%;
+}
+.content{
+    position: absolute;
+    top:30px;
+    left: 10%;
+    text-align: center;
+    color: white;
+    width: 100%
+    
+}
+.location{
+    padding:0.5rem 2rem;
+}
+.serch{
+    width: 300px;
+    padding:0.5rem 2rem;
+
+}

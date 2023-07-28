@@ -1,0 +1,33 @@
+.hero{
+    width: 30vw;
+    margin:30vh auto;
+    position: relative;
+    
+    
+}
+.figure-container{
+    width: fit-content;
+
+}
+
+.about{
+    position: absolute;
+    width: 100%;
+    bottom: 120px;
+    text-align: center;
+    color: white;
+    left: 15%;
+    
+
+}
+.caption{
+    font-size: 2rem;
+}
+.button{
+    border-radius: 20px;
+    padding:1rem 2rem ;
+    background-color: white;
+    border: none;
+    
+
+}

@@ -1,0 +1,108 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+.card{
+    width: 23vw;
+    margin: 20vh auto;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    padding: 15px;
+    font-family: 'Work Sans', sans-serif;
+    
+
+    
+}
+.image-container{
+    width: fit-content;
+    margin: auto;
+    position: relative;
+}
+.food{
+    border-radius: 15px;
+    position: relative;
+   
+    
+}
+.restaurant{
+    font-size: 1.4rem;
+    font-weight: 500;
+    margin: 0;
+}
+.cusines{
+    font-size: 1.3rem;
+    color:#5d5d5d;
+}
+.promoted{
+    position: absolute;
+    top: 0;
+    
+    padding: 3px 5px;
+    margin-left: 20px;
+    border-radius: 5px;
+    color: white;
+    font-size: 1rem;
+    background-color: rgba(44, 44, 45, 0.644);
+    
+}
+.offer{
+    position: absolute;
+    bottom: 0;
+    background-color: #266FEF;
+    color: #fff;
+    padding: 1px 6px;
+    
+}
+.delivery-time{
+
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color:#000;
+    font-size: 1rem;
+    background-color: #fff;
+    margin-right: 15px;
+    padding: 2px 8px;
+    border-radius: 5px;
+    font-size: 1.1rem;
+}
+.max-safety{
+    display: flex;
+    padding:10px 5px;
+    
+
+}
+
+.container{
+    width: 30%;
+    height: fit-content;
+    background-color: #3C9E89;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 0;
+    font-size: 12px;
+    position: relative;
+     border-radius: 5px;
+    margin-right: 10px;
+
+}
+.safety{
+    background-color: #F6AF77;
+    width: 90%;
+    padding: 2px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 0.8rem;
+    margin:3px  auto 0 auto;
+}
+.delivery{
+    color: white;
+    font-size: 1rem;
+    letter-spacing: 3px;
+    padding: 0 4px;
+
+}
+.about-safety{
+    color:#717070;
+    font-size: 1.1rem;
+
+}

@@ -1,24 +1,17 @@
-import logo from './logo.svg';
 import './App.css';
+import FoodCard from './Task1/FoodCard';
+import Hero from './Task2/Hero';
+import Zomato from './Task3/Zomato';
+import Profile from './Task4/Profile';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+<>
+<FoodCard />
+<Hero />
+<Zomato />
+<Profile />
+</>
   );
 }
 
